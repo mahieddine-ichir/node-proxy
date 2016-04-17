@@ -1,0 +1,25 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "A Proxy server for server to server calls",
+  "main": "proxy.js",
+  "dependencies": {
+    "request": "^2.72.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "keywords": [
+    "Proxy",
+    "node"
+  ],
+  "author": "mahieddine.ichir@gmail.com",
+  "license": "ISC"
+}
